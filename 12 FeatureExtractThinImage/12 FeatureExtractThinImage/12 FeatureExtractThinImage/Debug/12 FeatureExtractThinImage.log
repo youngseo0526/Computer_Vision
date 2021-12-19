@@ -1,0 +1,17 @@
+﻿  src.cpp
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(265,12): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(366,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(387,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(408,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(429,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(450,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(790,55): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(791,57): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(792,57): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(799,53): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(800,59): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(801,57): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(808,53): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(809,57): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\12 FeatureExtractThinImage\src.cpp(810,59): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  12 FeatureExtractThinImage.vcxproj -> C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\12 FeatureExtractThinImage\12 FeatureExtractThinImage\Debug\12 FeatureExtractThinImage.exe

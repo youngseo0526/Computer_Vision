@@ -1,0 +1,8 @@
+﻿  src.cpp
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\6 Draw_Outline,Crossline\Draw_Outline,Crossline\Draw_Outline,Crossline\src.cpp(167,12): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\6 Draw_Outline,Crossline\Draw_Outline,Crossline\Draw_Outline,Crossline\src.cpp(225,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\6 Draw_Outline,Crossline\Draw_Outline,Crossline\Draw_Outline,Crossline\src.cpp(246,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\6 Draw_Outline,Crossline\Draw_Outline,Crossline\Draw_Outline,Crossline\src.cpp(267,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\6 Draw_Outline,Crossline\Draw_Outline,Crossline\Draw_Outline,Crossline\src.cpp(288,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\6 Draw_Outline,Crossline\Draw_Outline,Crossline\Draw_Outline,Crossline\src.cpp(309,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Draw_Outline,Crossline.vcxproj -> C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\6 Draw_Outline,Crossline\Draw_Outline,Crossline\Debug\Draw_Outline,Crossline.exe

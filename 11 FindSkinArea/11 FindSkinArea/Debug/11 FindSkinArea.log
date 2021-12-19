@@ -1,0 +1,17 @@
+﻿  src.cpp
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(166,12): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(267,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(288,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(309,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(330,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(351,52): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(691,55): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(692,57): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(693,57): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(700,53): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(701,59): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(702,57): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(709,53): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(710,57): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\11 FindSkinArea\src.cpp(711,59): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  11 FindSkinArea.vcxproj -> C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\11 FindSkinArea\Debug\11 FindSkinArea.exe

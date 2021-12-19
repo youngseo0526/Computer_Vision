@@ -1,0 +1,17 @@
+﻿  src.cpp
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(166,9): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(267,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(288,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(309,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(330,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(351,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(691,46): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(692,48): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(693,48): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(700,44): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(701,50): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(702,48): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(709,44): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(710,48): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\10 Gradation3\src.cpp(711,50): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  10 Gradation3.vcxproj -> C:\Users\zaqxs\OneDrive\바탕 화면\컴퓨터비전\ComputerVision_HW\10 Gradation3\Debug\10 Gradation3.exe
